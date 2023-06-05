@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brian Rosner, or @Ryztiq
+- 👋 Hi, I’m Rin Rosner, or @Ryztiq
 - 👀 I’m interested in Game Design/Art and unity/unreal.
 - 🌱 I’m currently learning blender, as its the last of 3ds/maya to learn for me.
 - 💞️ I’m looking to collaborate on small game projects or 3d assets.
